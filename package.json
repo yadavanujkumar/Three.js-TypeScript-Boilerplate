@@ -19,6 +19,7 @@
     "vite": "^5.2.0"
   },
   "dependencies": {
-    "deploy": "^1.0.3"
+    "deploy": "^1.0.3",
+    "lil-gui": "^0.19.2"
   }
 }
