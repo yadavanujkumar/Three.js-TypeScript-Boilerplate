@@ -1,1 +1,1 @@
-learing 3js
+learning 3js
