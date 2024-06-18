@@ -10,6 +10,7 @@
     "deploy": "gh-pages -d"
   },
   "devDependencies": {
+    "@tweenjs/tween.js": "^23.1.2",
     "@types/dat.gui": "^0.7.13",
     "@types/three": "^0.163.0",
     "dat.gui": "^0.7.9",
